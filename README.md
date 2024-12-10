@@ -1,15 +1,20 @@
 # Rechnungsverwaltungssystem
 
-Ein professionelles System zur Verwaltung von Rechnungen mit React.
+Ein modernes System zur Verwaltung von Rechnungen, implementiert mit React und Tailwind CSS.
 
 ## Features
 
-- Benutzerauthentifizierung
-- Rechnungserstellung und -verwaltung
+✅ Implementiert:
+- Kundenverwaltung mit Suche
+- Mehrere Rechnungspositionen
+- Automatische Berechnungen
+- Responsive Design
+
+🚧 In Entwicklung:
 - PDF-Export
 - E-Mail-Versand
-- Kontaktverwaltung
-- Mehrwertsteuerberechnung
+- Datenspeicherung
+- Backend-Integration
 
 ## Installation
 
@@ -20,13 +25,6 @@ npm run dev
 
 ## Verwendung
 
-1. Anmelden mit Ihren Zugangsdaten
-2. Neue Rechnung erstellen oder bestehende verwalten
-3. Rechnungen als PDF exportieren oder per E-Mail versenden
-
-## Technologien
-
-- React
-- Tailwind CSS
-- shadcn/ui
-- Local Storage für Datenpersistenz
+1. Kunde auswählen oder neu anlegen
+2. Rechnungspositionen hinzufügen
+3. PDF exportieren oder per E-Mail versenden
